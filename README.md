@@ -1,6 +1,4 @@
 # Machine Learning: Image Processing & EDA
-
-## Overview
 This repository contains programming assignments completed as part of my university coursework in **Machine Learning**. 
 
 ## Key Learning Objectives
